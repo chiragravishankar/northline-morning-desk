@@ -62,3 +62,8 @@ data/        September and October drops as released
 output/      findings.csv + evidence.csv (both months), findings_september_only.csv
 docs/        the case brief, billing rules, data dictionary, file spec, October notes
 ```
+
+## Team
+
+- Chirag Ravishankar ([@chiragravishankar](https://github.com/chiragravishankar))
+- Ritu Kumar ([@rituskumar2601](https://github.com/rituskumar2601))
